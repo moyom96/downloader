@@ -23,6 +23,8 @@
 	http://www.islamicity.com/multimedia/radio/ch152/MalikQuranTransaltion.pdf
 	https://free4kwallpapers.com/no-watermarks/originals/2018/04/15/an-edit-of-a-thumbnail-wallpaper.jpg
 	http://downloads.4ksamples.com/downloads/SES.Astra.UHD.Test.2.2160p.UHDTV.HEVC.x265-LiebeIst.mkv
+	http://downloads.4ksamples.com/downloads/sample-Elysium.2013.2160p.mkv
+	http://downloads.4ksamples.com/downloads/SKYFALL%204K%20(Ultra%20HD)%20(4ksamples.com).mp4
 */
 import javafx.application.Application;
 import javafx.application.Platform;
