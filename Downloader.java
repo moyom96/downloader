@@ -137,7 +137,7 @@ public class Downloader extends Application{
 					filename.push(new TextField("./downloads/filename.pdf"));
 					progressBar.push(new ProgressBar(0));
 					link_counter++;
-					if(link_counter == 10){ // Max links is 10
+					if(link_counter == 25){ // Max links is 25
 						add_link.setDisable(true);
 					}
 					HBox new_row = new HBox();
